@@ -26,15 +26,25 @@ This project is built with **Next.js**, **Tailwind CSS**, and **Chart.js**. It i
 
 ## 📂 Project Structure
 solar-flare-predictor/
+<br>
 │── pages/
+<br>
 │ ├── index.js # Main UI
+<br>
 │ └── api/predict.js # Mock prediction API (optional)
+<br>
 │── components/
+<br>
 │ └── PredictionCard.js
+<br>
 │── public/images/ # Solar flare images (C, M, X)
+<br>
 │── styles/
+<br>
 │ └── globals.css # Tailwind setup
+<br>
 │── package.json
+<br>
 │── README.md
 
 
@@ -48,6 +58,11 @@ solar-flare-predictor/
 - [Node.js](https://nodejs.org/) – Runtime  
 
 ---
+
+📸 Demo (Screenshots)
+https://solar-flare-prediction.vercel.app/
+<img width="1898" height="922" alt="image" src="https://github.com/user-attachments/assets/6174f864-c739-41fc-9660-a26026f81f80" />
+
 
 ## ⚡ Getting Started
 
