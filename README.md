@@ -1,7 +1,7 @@
-Solar Flare Predictor
+##Solar Flare Predictor
 
-A mobile-optimized Next.js web app that simulates and visualizes solar flare activity using DATA obtained from NaSA+IBM surya initiative  , while integrating references to NASA Surya AI
- and Surya GitHub
+<h1>A mobile-optimized Next.js web app that simulates and visualizes solar flare activity using DATA obtained from NaSA+IBM surya initiative  , while integrating references to NASA Surya AI
+ and Surya GitHub</h1>
 .
 
 This project is built with Next.js, Tailwind CSS, and Chart.js. It is optimized for phones with a retro-futuristic dark neon theme.
@@ -34,7 +34,7 @@ Hugging Face Surya
 
 GitHub Surya
 
-📂 Project Structure
+##📂 Project Structure
 solar-flare-predictor/
 │── pages/
 │   ├── index.js        # Main UI
